@@ -1,6 +1,5 @@
-Python Programs
-Program 1 - Branching Statements
-
+#Python Programs
+#Program 1 - Branching Statements
 
 num = int(input("Enter a number: "))
 
@@ -11,9 +10,9 @@ if num % 2 == 0:
 else:
 
     print("The number is odd.")
+----------------------------------------------------------------------------------------------------------
 
-
-Program 2 - Looping
+#Program 2 - Looping
 
 
 a = int(input("Enter a number"))
@@ -45,7 +44,7 @@ else:
     print("The number is odd.")
 
 
-
+----------------------------------------------------------------------------------------------------------
 
 Program 3 - Functions and Strings
 
@@ -58,6 +57,7 @@ name = input("Enter your name: ")
 
 something(name)
 
+----------------------------------------------------------------------------------------------------------
 
 Program 4 - List Operations
 
@@ -74,10 +74,7 @@ my_list.append("I love Python")
 
 print(my_list)
 
-
-
-
-
+----------------------------------------------------------------------------------------------------------
 
 Program 5 - Tuples
 
@@ -94,6 +91,7 @@ for element in my_tuple:
 
     print(element)
 
+----------------------------------------------------------------------------------------------------------
 
 Program 6 - Dictionary
 
@@ -126,6 +124,7 @@ plt.plot(data)
 
 plt.show()
 
+----------------------------------------------------------------------------------------------------------
 
 Program 8 - Simple Linear regression
 
@@ -176,6 +175,7 @@ plt.legend()
 
 plt.show()
 
+----------------------------------------------------------------------------------------------------------
 
 Program 9 - Sample Training data
 
@@ -220,7 +220,7 @@ accuracy = accuracy_score([1, 0], y_pred)
 
 print(f"Accuracy: {accuracy:.2f}")
 
-
+----------------------------------------------------------------------------------------------------------
 
 Program 10 - Decision Tree data set
 
@@ -267,7 +267,7 @@ plt.title("Decision Tree Classifier")
 
 plt.show()
 
-
+----------------------------------------------------------------------------------------------------------
 
 
 
